@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.24720.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sql6", "Sql6\Sql6.csproj", "{65AA7ABC-BF97-4413-B1BB-842081FCE488}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sql5", "Sql5\Sql5.csproj", "{ABF8C035-F256-4A3A-8ED2-FCC5D4A04109}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sql6.NUnit", "Sql6.NUnit\Sql6.NUnit.csproj", "{0BF21386-662D-49B2-8DFF-8D569F023D1F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{65AA7ABC-BF97-4413-B1BB-842081FCE488}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{65AA7ABC-BF97-4413-B1BB-842081FCE488}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{65AA7ABC-BF97-4413-B1BB-842081FCE488}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{65AA7ABC-BF97-4413-B1BB-842081FCE488}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ABF8C035-F256-4A3A-8ED2-FCC5D4A04109}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ABF8C035-F256-4A3A-8ED2-FCC5D4A04109}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ABF8C035-F256-4A3A-8ED2-FCC5D4A04109}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ABF8C035-F256-4A3A-8ED2-FCC5D4A04109}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0BF21386-662D-49B2-8DFF-8D569F023D1F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0BF21386-662D-49B2-8DFF-8D569F023D1F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0BF21386-662D-49B2-8DFF-8D569F023D1F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0BF21386-662D-49B2-8DFF-8D569F023D1F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
